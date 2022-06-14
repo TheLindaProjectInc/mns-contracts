@@ -1,0 +1,33 @@
+{
+  "name": "@metrixnames/mns-contracts",
+  "version": "1.0.0",
+  "description": "Contracts for the Metrix Name Service",
+  "files": [
+    "README.md",
+    "contracts/**/*.sol"
+  ],
+  "directories": {
+    "lib": "contracts"
+  },
+  "scripts": {
+    "build": "npx hardhat compile",
+    "lint": "npx hardhat check"
+  },
+  "repository": "TheLindaProjectInc/mns-contracts",
+  "author": "SeqSEE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLindaProjectInc/mns-contracts/issues"
+  },
+  "homepage": "https://github.com/TheLindaProjectInc/mns-contracts#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-solhint": "^2.0.1",
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@ensdomains/buffer": "^0.0.13",
+    "@ensdomains/solsha1": "^0.0.3",
+    "@metrixnames/mnslib": "^1.0.27",
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
