@@ -1,13 +1,14 @@
 {
   "name": "@metrixnames/mns-contracts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contracts for the Metrix Name Service",
   "files": [
     "README.md",
     "contracts/**/*.sol"
   ],
   "directories": {
-    "lib": "contracts"
+    "lib": "contracts",
+    "src": "contracts"
   },
   "scripts": {
     "build": "npx hardhat compile",
