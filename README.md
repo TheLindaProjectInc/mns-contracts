@@ -6,7 +6,7 @@ mns-contracts is an update/port of [**ens-contracts**](https://github.com/ensdom
 
 ## Installation
 
-``npm install --save @metrixnames/mns-contracts
+`npm install --save @metrixnames/mns-contracts`
 
 ## Example Usage
 

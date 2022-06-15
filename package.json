@@ -1,6 +1,6 @@
 {
   "name": "@metrixnames/mns-contracts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Contracts for the Metrix Name Service",
   "files": [
     "README.md",
