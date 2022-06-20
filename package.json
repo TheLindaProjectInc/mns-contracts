@@ -25,7 +25,7 @@
     "hardhat": "^2.9.9"
   },
   "dependencies": {
-    "@ensdomains/buffer": "^0.0.13",
+    "@ensdomains/buffer": "^0.1.0",
     "@ensdomains/solsha1": "^0.0.3",
     "@metrixnames/mnslib": "^1.0.27",
     "@openzeppelin/contracts": "^4.3.2"
