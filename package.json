@@ -27,7 +27,7 @@
   "dependencies": {
     "@ensdomains/buffer": "^0.0.13",
     "@ensdomains/solsha1": "^0.0.3",
-    "@metrixnames/mnslib": "^1.0.27",
+    "@metrixnames/mnslib": "^2.0.3",
     "@openzeppelin/contracts": "^4.3.2"
   }
 }
