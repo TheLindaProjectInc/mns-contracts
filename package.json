@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/TheLindaProjectInc/mns-contracts#readme",
   "devDependencies": {
-    "@nomiclabs/hardhat-solhint": "^2.0.1",
+    "@nomiclabs/hardhat-solhint": "^3.0.0",
     "hardhat": "^2.9.9"
   },
   "dependencies": {
